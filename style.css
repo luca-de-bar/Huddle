@@ -49,3 +49,19 @@ h2
 {
   transition: all 0.3s;
 }
+
+.cta-card:hover
+{
+  background: #00252E;
+  color: #fff;
+}
+
+.cta-card:hover h2
+{
+  color: #fff;
+}
+
+.cta-card
+{
+  transition: all 0.3s;
+}
