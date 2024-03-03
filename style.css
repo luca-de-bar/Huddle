@@ -33,3 +33,19 @@ h2
 {
   text-align: center !important;
 }
+
+.btn-pink:hover
+{
+  background-color: #f472b5da;
+}
+
+.btn-white:hover
+{
+  background-color: #00252E;
+  color: #fff;
+}
+
+.btn
+{
+  transition: all 0.3s;
+}
